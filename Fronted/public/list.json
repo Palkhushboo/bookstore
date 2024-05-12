@@ -1,0 +1,59 @@
+[
+ {
+ "id":1,
+ "name":"story book",
+ "title":"Lorem dresm Khushboo My favorite book that",
+ "price":0,
+ "category":"Free",
+ "image":"https://img.freepik.com/premium-photo/old-book-with-empty-blank-cover_30478-4563.jpg?size=626&ext=jpg&uid=R111241755&ga=GA1.1.72832564.1714914707&semt=sph"
+
+},
+{
+ "id":2,
+ "name":"story book",
+ "title":"Lorem dresm Khushboo My favorite book that",
+ "price":0,
+ "category":"Free",
+ "image":"https://img.freepik.com/premium-photo/old-book-with-empty-blank-cover_30478-4563.jpg?size=626&ext=jpg&uid=R111241755&ga=GA1.1.72832564.1714914707&semt=sph"
+
+},
+{
+ "id":3,
+ "name":"music book",
+ "title":"Lorem dresm Khushboo My favorite book that",
+ "price":100,
+ "category":"song",
+ "image":"https://img.freepik.com/premium-photo/old-book-with-empty-blank-cover_30478-4563.jpg?size=626&ext=jpg&uid=R111241755&ga=GA1.1.72832564.1714914707&semt=sph"
+
+},
+{
+ "id":4,
+ "name":"Current Afffair",
+ "title":"Lorem dresm Khushboo My favorite book that",
+ "price":50,
+ "category":"paid",
+ "image":"https://img.freepik.com/premium-photo/old-book-with-empty-blank-cover_30478-4563.jpg?size=626&ext=jpg&uid=R111241755&ga=GA1.1.72832564.1714914707&semt=sph"
+
+},
+{
+ "id":5,
+ "name":"story book",
+ "title":"Lorem dresm Khushboo My favorite book that",
+ "price":0,
+ "category":"Free",
+ "image":"https://img.freepik.com/premium-photo/old-book-with-empty-blank-cover_30478-4563.jpg?size=626&ext=jpg&uid=R111241755&ga=GA1.1.72832564.1714914707&semt=sph"
+
+},
+{
+ "id":6,
+ "name":"Comedy book",
+ "title":"Lorem dresm Khushboo My favorite book that",
+ "price":20,
+ "category":"Free",
+ "image":"https://img.freepik.com/premium-photo/old-book-with-empty-blank-cover_30478-4563.jpg?size=626&ext=jpg&uid=R111241755&ga=GA1.1.72832564.1714914707&semt=sph"
+
+
+}
+
+
+]
