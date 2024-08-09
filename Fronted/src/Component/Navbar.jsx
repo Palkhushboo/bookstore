@@ -44,7 +44,7 @@ function Navbar() {
         <a href='/Contact'>Contact</a>
       </li>
       <li>
-        <a>About</a>
+        <a href='/About'>About</a>
       </li>
     </>
   )
@@ -68,7 +68,7 @@ function Navbar() {
 
               </ul>
             </div>
-            <a className="text-2xl font-bold cursor-pointer">bookStore</a>
+            <a className="text-2xl font-bold cursor-pointer">BookStore</a>
           </div>
           <div className='navbar-end space-x-3'>
             <div className="navbar-center hidden lg:flex">
