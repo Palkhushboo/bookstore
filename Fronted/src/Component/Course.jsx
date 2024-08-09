@@ -11,7 +11,7 @@ function Course() {
 
           </h1>
           <p className='mt-12'>
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Porro,
+           Lorem ipsum dolor sit, amet consectetur adipisicing elit. Porro,
             assumenda? Repellendus, iste corrupti? Tempore laudantium
             repellendus accusamus accusantium sed architecto odio, nisi expedita
             quas quidem nesciunt debitis dolore non aspernatur praesentium
